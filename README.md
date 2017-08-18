@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Solía pensar que nunca me gustaría la programación. Uno suele pensar muchas estupideces... 
